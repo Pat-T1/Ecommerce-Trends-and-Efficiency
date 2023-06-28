@@ -4,12 +4,16 @@ In-depth sales and performance analysis for an ecommerce business, includes insi
 This company saw explosive growth in 2020, followed by an increasingly sharp decline in revenue, orders, and AOV beginning in Q1 '22.
 ### **Product Mix** 
 My analysis found that three SKUs drove 85% of revenue and recommends finding alternate, in-class products to maximize sales performance.
+
+![pivot_2](https://github.com/Pat-T1/Ecommerce-Trends-and-Efficiency/assets/126030503/24d515db-23fc-4220-8ccd-fc0506ebcc93)
+
 ### **Loyalty Program** 
 Launched in 2019, the loyalty program now accounts for more than half of all annual revenue. More importantly, this cohort of customers actively responds to email marketing campaigns and have proven more resilient to the current downward trends in revenue. This program is a key lever the company can use to improve sales performance.
-### **Mobile App and User Device** 
-Mobile app purchases have increased from 6% in '19 to 25% in '21, while mobile device users have increased total spend by an average of 20% year-over-year. Incentivizing mobile users to adopt the app as their primary purchasing channel can ride this trend to improve sales performance.
 
 ![pivot_1](https://github.com/Pat-T1/Ecommerce-Trends-and-Efficiency/assets/126030503/e57241f4-1dbd-445e-8322-e5338bd92af0)
+
+### **Mobile App and User Device** 
+Mobile app purchases have increased from 6% in '19 to 25% in '21, while mobile device users have increased total spend by an average of 20% year-over-year. Incentivizing mobile users to adopt the app as their primary purchasing channel can ride this trend to improve sales performance.
 
 ## Key Findings
 ### **1.	Product Mix**
