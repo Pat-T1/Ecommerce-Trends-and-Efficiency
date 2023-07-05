@@ -1,0 +1,18 @@
+# Earnings Call Request for Data and Ad Hoc Reporting
+**I was tasked with answering the following questions in order to prepare the company's finance and marketing departments for a quarterly earnings call:**
+
+**1** What are the monthly and quarterly sales trends for Macbooks sold in North America across all years?
+
+**2** What was the monthly refund rate for purchases made in 2020? How many refunds did we have each month in 2021 for Apple products?
+
+**3** Are there certain products that are getting refunded more frequently than others? What are the top 3 most frequently refunded products across all years? What are the top 3 products that have the highest count of refunds?
+
+**4** What’s the average order value across different account creation methods in the first two months of 2022? Which method had the most new customers in this time?
+
+**5** What’s the average time between customer registration and placing an order?
+
+**6** Which marketing channels perform the best in each region? Does the top channel differ across regions?
+
+**7** For customers who purchased more than 4 orders across all years, what was the order ID, product, and purchase date of their most recent order?
+
+**8** For each brand, which month in 2020 had the highest number of refunds, and how many refunds did that month have?
