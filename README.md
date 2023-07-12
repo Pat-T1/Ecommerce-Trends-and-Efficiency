@@ -1,11 +1,13 @@
 # Ecommerce-Trends-and-Efficiency
 In-depth sales and performance analysis for an ecommerce business, includes insights on historical sales trends, product mix, operational efficiency, and marketing performance.
+
+Dashboards outlining product and regional sales performance, marketing channel efficacy, loyalty program participation, and customer preferences can be found on [Tableau Public](https://public.tableau.com/app/profile/pat.t6818/viz/EcommerceDashboards/ElistPerfomanceDashboards?publish=yes).
 ## Summary
-This company saw explosive growth in 2020, followed by an increasingly sharp decline in revenue, orders, and AOV beginning in Q1 '22.
+This company saw explosive growth in 2020, followed by an increasingly sharp decline in revenue, orders, and average order value beginning in Q1 '22. Fortunately, there are three key levers the company can manipulate to build on their pandemic-era gains. 
 ### **Product Mix** 
 My analysis found that three SKUs drove 85% of revenue and recommends finding alternate, in-class products to maximize sales performance.
 
-![pivot_2](https://github.com/Pat-T1/Ecommerce-Trends-and-Efficiency/assets/126030503/24d515db-23fc-4220-8ccd-fc0506ebcc93)
+![Dashboard product mix](https://github.com/Pat-T1/Ecommerce-Trends-and-Efficiency/assets/126030503/836f424f-6fac-4212-ae69-8284f0b22537)
 
 ### **Loyalty Program** 
 Launched in 2019, the loyalty program now accounts for more than half of all annual revenue. More importantly, this cohort of customers actively responds to email marketing campaigns and have proven more resilient to the current downward trends in revenue. This program is a key lever the company can use to improve sales performance.
